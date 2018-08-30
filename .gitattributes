@@ -1,3 +1,1 @@
 *.java linguist-language=Android
-*.class linguist-language=java
-*.js linguist-language=java
