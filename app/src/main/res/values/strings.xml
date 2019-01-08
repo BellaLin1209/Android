@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Bella DEMO</string>
+    <string name="app_creator">By Bella Lin - 20180806</string>
+
+    <string name="main_input">輸入</string>
+    <string name="main_analysis">分析</string>
+    <string name="main_backup">備份</string>
+    <string name="input_class">分類</string>
+    <string name="input_time">日期</string>
+    <string name="input_name">名稱</string>
+    <string name="input_fist">份量(拳頭/100g)</string>
+
+    <string name="input_calorie">熱量</string>
+    <string name="input_camera">照相</string>
+    <string name="input_submit">送出</string>
+    <string name="analysis_month">月份</string>
+
+    <string name="title_activity_capture2">CaptureActivity2</string>
+    <string name="title_activity_taker2">Taker2</string>
+    <string name="title_activity_shower2">Shower2</string>
+
+    <string name="all_welcome">welcome</string>
+    <string name="all_welcomelogin">歡迎登入</string>
+    <string name="all_welcomeregister">歡迎註冊</string>
+    <string name="all_login">登入</string>
+    <string name="all_logout">登出</string>
+
+    <string name="all_backup">備份資料</string>
+    <string name="all_backupmessage">請先完成登入,再進行備份動作</string>
+    <string name="all_Export">匯出</string>
+    <string name="all_Import">匯入</string>
+    <string name="all_executing">正在執行...</string>
+    <string name="all_backupSuccess">備份執行成功!</string>
+    <string name="all_backupFailed">備份執行失敗</string>
+
+    <string name="login_acc_content">請輸入電話</string>
+    <string name="login_pwd_content">請輸入密碼</string>
+    <string name="all_yes">確認</string>
+    <string name="all_no">取消</string>
+    <string name="login_warning">請先登入或註冊</string>
+    <string name="login_message">新用戶將自動註冊</string>
+    <string name="logout_message">是否確定登出?</string>
+
+
+    <string name="image_details_header">詳細:</string>
+    <string name="image_preview_header">預覽:</string>
+    <string name="loading_message">分析中..請稍後！^^ </string>
+    <string name="dialog_select_prompt">請選擇相片分析來源</string>
+    <string name="dialog_select_camera">拍照</string>
+    <string name="dialog_select_gallery">相簿</string>
+    <string name="image_picker_error">這張相片有問題,請選擇其他張，謝謝！</string>
+
+    <string name="image_nothing">這張相片無法辨識，請自行輸入！</string>
+    <string name="image_allno">都不對，我要自行輸入！</string>
+</resources>

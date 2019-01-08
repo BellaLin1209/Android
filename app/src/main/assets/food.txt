@@ -1,0 +1,500 @@
+﻿芭樂,Guava(Bale),140 
+紅豆湯,Red bean soup,119 
+蘋果,apple,50 
+蓋奇巧克力,Gage Chocolate,113 
+奶茶,Milk tea,111
+白米飯,White rice,110 
+速食粥,Instant porridge,351 
+糙米,brown rice,364 
+糯米,Glutinous rice,359 
+炒飯,Fried rice,183 
+什錦蛋炒飯,Assorted egg fried rice,170 
+什錦燴飯,Assorted risotto,135 
+三鮮燴飯,Three fresh risotto,107 
+蔥燒牛肉飯,Beef rice with spring onion,122
+牛腩燴飯,Burdock rice,97 
+咖哩雞飯,Curry chicken rice,101 
+炸雞腿飯,Fried chicken leg rice,119 
+炸排骨飯,Fried pork ribs rice,136 
+豬腳飯,Pork foot rice,134 
+紅燒排骨便當,Braised pork ribs,192 
+控肉飯,Pilaf,142 
+三寶飯,Three treasures rice,155 
+三鮮燴飯,Three fresh risotto,100 
+滑蛋肉片燴飯,Snake egg risotto,100 
+蝦仁蛋炒飯,Shrimp egg fried rice,171 
+肉絲蛋炒飯,Fried pork with rice,175 
+燒烤鮭魚飯,Barbecue squid rice,109 
+蒲鰻魚便當,Pussy fish,180 
+麵,noodles,357
+拉麵,Hand-Pulled Noodle,295 
+紅蘿蔔麵,Carrot noodles,350 
+通心麵,Macaroni,350 
+菠菜麵,Spinach noodles,353 
+意麵,pasta,288 
+鍋燒意麵,Pot of pasta,475 
+鍋燒麵,Pan noodles,122 
+雞蛋麵,Egg noodles,355 
+雞絲麵,Chicken noodles,448 
+麵線,Noodles,297 
+蚵仔麵線,Oyster with fine vermicelli,305
+米苔目,Rice moss,118 
+麵茶,seasoned millet mush,415 
+米粉,rice flour,357 
+廣州炒麵,Guangzhou fried noodles,182 
+炒烏龍麵,Fried udon noodles,118 
+奶油蛤蠣義大利麵,Creamy espresso,245 
+榨醬麵,Sauce,97 
+牛肉麵,beef noodles,78 
+麻醬麵,Masa noodles,110 
+魷魚羹麵,Squid noodles,51 
+饅頭,steamed bread,233 
+海鮮燕麥粥,Seafood oatmeal,380 
+韭菜盒子,Leek box,325 
+甜不辣,Sweet and not spicy,125 
+年糕,Rice cake,240 
+蘿蔔糕,carrot cake,139
+荷包蛋,Poached egg,197 
+蔥油餅,Scallion cake,63 
+蛋餅,Quiche,305 
+鮪魚蛋餅,Salmon quiche,226 
+起司蛋餅,Cheesecake,345 
+玉米蛋餅,Corn quiche,227 
+火腿蛋餅,Ham quiche,282 
+牛肉餡餅,Beef patties,212 
+豬肉餡餅,Pork pie,264 
+肉鬆御飯糰,Flossy rice ball,217 
+鹽烤鮭魚飯糰,Salt-roasted squid rice balls,165 
+糯米飯糰,Glutinous rice ball,144 
+銀絲卷,Silver wire roll,2507 
+鍋貼(3個),Pot stickers (3unit),210 
+蘿蔔絲餅,Radish cake,156 
+油條,Fritters,383 
+燒餅,Biscuits,340 
+小籠包,Xiao Long Bao,238 
+煎餃(8粒),Fried dumplings (8 capsules),367 
+煎蘿蔔糕(2片),Fried Radish Cake (2 pieces),183 
+廣東粥,Guangdong porridge,141 
+肉包,Meat package,240 
+菜包,Vegetable bag,193 
+豬肉漢堡,Pork burger,267 
+鮪魚漢堡,Squid burger,233 
+雞漢堡,Chicken burger,235 
+炸蝦排堡,Fried shrimp,235 
+炸魚排堡,Fried fish steak,265 
+起司漢堡,Cheeseburger,301 
+加蛋滿福堡,Adding eggs to Fortune,288 
+蔥燒牛肉米堡,Scallion Beef Rice Fort,54 
+披薩,Pizza,530 
+豬排,Pork chops,268 
+牛排,steak,388 
+炸彈麵包,Bomb bread,338 
+香蒜麵包,Garlic bread,221 
+起酥麵包,Crisp bread,489 
+熱狗捲,Hot dog roll,424 
+沙拉麵包,Salad bread,304 
+肉鬆麵包,Floss bread,380 
+波蘿麵包,Polo bread,390 
+椰子夾心麵包,Coconut sandwich bread,333 
+花生奶油夾心,Peanut cream filling,333 
+紅豆麵包,Red bean bread,311 
+麵包,bread,391
+美式貝果,American bagels,302 
+胚芽葡萄麵包,Germ grape bread,249 
+全麥葡萄麵包,Whole wheat grape bread,192 
+鮮奶哈斯,Fresh milk Hass,206 
+農夫麵包,Farmer bread,120 
+裸麥麵包,Barley bread,107 
+鮮奶吐司,Fresh milk toast,98 
+全麥吐司,Whole wheat toast,45 
+葡萄吐司,Grape toast,288 
+白吐司,White toast,346 
+鹹蔥麵包,Salty onion bread,199 
+法國麵包,French bread,280 
+小餐包,Small meal package,280 
+銅鑼燒,Brass,325 
+椰子塔,Coconut tower,338 
+蛋塔,Egg tower,300 
+葡式蛋塔,egg tart,375 
+乳酪蛋糕,Cheesecake,325 
+巧克力蛋糕,chocolate cake,425 
+起士蛋糕,cake,569 
+咖啡蛋糕,Coffee cake,400 
+南瓜派,pumpkin pie,325 
+三明治,Sandwich,295
+芋泥餅,Clay cake,403 
+芝麻球(紅豆),Sesame balls (red beans),321 
+芋頭球,Taro ball,330 
+馬蹄條,Horseshoe,310 
+綠豆凸,Mung bean convex,424 
+甜糯米糕,Sweet rice cake,173 
+紅龜糕,Red tortoise,236 
+白吐司,White toast,36 
+小餐包,Small meal package,36 
+奶酥麵包,Shortbread bread,222 
+全麥麵包,Whole wheat bread,38 
+蔥花鹹麵包,Chopped green onion bread,56 
+麵包,bread,27 
+全麥吐司,Whole wheat toast,34 
+薯條,French fries,313 
+小雞塊(6塊),Chicken nuggets (6 pieces),398 
+比士吉,Bishji,433 
+蔥燒牛肉米堡,Scallion Beef Rice Fort,184 
+超級什錦個人比薩,Super Assorted Personal Pizza,219 
+海鮮個人比薩,Seafood personal pizza,246 
+鮮蝦鳳梨海鮮個人比薩,Shrimp pineapple seafood personal pizza,224 
+鮪魚個人比薩,Squid personal pizza,223 
+紅茶,black tea,34 
+綠茶,green tea,18 
+冰淇淋紅茶,Ice cream black tea,40 
+冰淇淋奶茶,Ice cream tea,63 
+檸檬茶,lemon tea,34 
+拿鐵,latte,65 
+烏龍茶(含糖),Oolong tea (sugar),47 
+烏龍茶(低糖),Oolong tea (low sugar),15 
+泡沫奶茶,Foam milk tea,47 
+奶茶,Milk tea,32 
+珍珠奶茶,Pearl milk tea,64 
+珍珠奶茶無糖,Pearl milk tea without sugar,51 
+統一麥香皇家奶茶,Uniform Maixiang Royal Tea,32 
+咖啡,coffee,18 
+黑咖啡,black coffee,0 
+維大力,Vigorous,74 
+芬達,Fanta,33 
+雪碧,Sprite,42 
+可樂,Cola,49 
+健怡可樂,Diet Coke,1 
+蘋果西打,Apple West,42 
+黑松汽水,Black pine soda,42 
+黑松沙士,Black pine sand,36 
+養樂多,yogurt drink,72
+加糖果汁,Sugared juice,44 
+無糖果汁,Sugar-free juice,40 
+雪碧汽水,Sprite soda,39 
+蕃茄汁,tomato sauce,18 
+蘋果汁,Apple juice,48 
+甘蔗汁,Sugar cane juice,59 
+蔓越橘汁,Cranberry juice,65 
+葡萄柚汁,Grapefruit juice,21 
+葡萄原汁,Grape juice,183 
+檸檬原汁,Lemon juice,25 
+柳橙原汁,Orange juice,47 
+鳳梨原汁,Pineapple juice,56 
+津津蘆筍汁,Relished asparagus juice,36 
+每日C100%葡萄原汁,Daily C100% grape juice,67 
+每日C100%柳橙原汁,Daily C100% orange juice,51 
+每日C100%葡萄柚原汁,Daily C100% grapefruit juice,49 
+光泉100%柳橙汁(樂力包),Gwangju 100% orange juice (Le Li package),65 
+光泉100%葡萄汁(樂力包),Gwangju 100% grape juice (Le Li package),56 
+光泉100%蘋果汁(樂力包),Gwangju 100% apple juice (Le Li package),57 
+光泉100%鮮榨柳橙原汁,Gwangju 100% freshly squeezed orange juice,46 
+光泉100%鮮榨蘋果泥汁,Gwangju 100% freshly squeezed apple puree,44 
+巧克力奶,Chocolate milk,77 
+果汁奶,Juice milk,71 
+光泉優酪乳(草莓),Gwangu Yogurt (Strawberry),86 
+脫脂優酪乳,Skimmed yogurt,67 
+味全果汁牛奶,Flavored whole juice milk,61 
+統一果汁牛奶,Uniform juice milk,71 
+全脂奶,Whole milk,63 
+低脂奶,Low fat milk,50 
+脫脂奶,Skim milk,33 
+可爾必思蘇打,Calpis soda,47 
+巧克力飲料,Chocolate drink,357 
+奇檬子,Chime,46 
+寶礦力,Treasure force,26 
+烈酒(40%),Spirits (40%),226 
+麒麟啤酒,Kirin Beer,42 
+百崴啤酒,Beer,41 
+八寶粥,Eight-treasure porridge,98 
+茉莉花茶,Jasmine tea,28 
+三合一奶茶,Three in one milk tea,448 
+奶茶,Milk tea,42 
+奶茶,Milk tea,42 
+珍珠奶茶,Pearl milk tea,59 
+水果茶(蘋果),Fruit tea (apple),36 
+即溶檸檬紅茶,Instant lemon black tea,395 
+仙草蜜,Honey Herbal,35 
+冬瓜茶,Winter melon tea,33 
+冬蟲夏草茶,Cordyceps tea,26 
+杏仁茶,Almond tea,42 
+決明子茶,Cassia tea,22 
+青草茶,Green tea,25 
+枸杞茶,Tea,18 
+洛神茶,Luoshen tea,66 
+苦茶,Bitter tea,12 
+參杞茶,Ginseng tea,29 
+麥茶(低糖),Wheat tea (low sugar),14 
+菊花茶,Chrysanthemum,29 
+黑豆茶,Black bean tea,13 
+黑棗茶,Black jujube tea,46 
+燒仙草茶,Burning grass tea,29 
+薑母茶,Ginger mother tea,28 
+薑茶隨身包,Ginger tea carry bag,397 
+DHA飲料,DHA drink,46 
+運動飲料,energy drink,28 
+寡醣飲料,Oligosaccharide drink,45 
+人參飲,Ginseng drink,56 
+白鶴靈芝飲料,White Crane Ganoderma lucidum drink,26 
+燕窩,Bird's nest,35 
+蘆薈露,Aloe vera,43 
+靈芝飲,Ganoderma lucidum drink,12 
+果醋,Fruit vinegar,37 
+健康醋,Healthy vinegar,52 
+雞精,Chicken essence,34 
+小麥草汁,Wheat grass juice,35 
+發酵乳果汁,Fermented milk juice,51 
+三合一咖啡,three in one coffee,433 
+可可粉,cocoa powder,461 
+即溶咖啡,instant coffee,360 
+咖啡,coffee,39 
+啤酒,beer,50 
+生啤酒,Draft beer,49 
+白葡萄酒,White wine,90 
+白蘭地,Brandy,278 
+紅葡萄酒,Red Wine,92 
+米酒,rice wine,154 
+威士忌,Whisky,273 
+高梁酒,Sorghum wine,413 
+陳年紹興酒,Chen Shaoxing Wine,135 
+0熱量可樂,0 calorie cola,1 
+沙士(低糖),SARS (low sugar),43 
+沙士,Shashi,36 
+汽水,Soda,42 
+糯米漿,Rice syrup,51 
+甜酒釀,Sweet wine,176 
+麥芽飲,Malt drink,394 
+米漿,Rice syrup,61 
+糙米漿,Brown rice pulp,72 
+黑米漿,Black rice milk,50 
+蘆筍,asparagus,21 
+芥藍,Kale,25 
+花菜,Cauliflower,24 
+芹菜,celery,13 
+玉米,corn,50 
+黃瓜,cucumber,18 
+香菇,Mushroom,29 
+洋蔥,onion,29 
+青豆,Haricot vert,88 
+芥菜,mustard,21 
+菠菜,spinach,22 
+青椒,green pepper,20 
+蕃薯,Sweet potato,140 
+蕃茄,tomato,19 
+雪菜,Snow dish,60 
+竹筍,Bamboo shoots,40 
+A 菜,A dish,40 
+菜心,Dish heart,40 
+白菜,Chinese cabbage,40 
+豆苗,Bean seedling,40 
+絲瓜,Loofah,40 
+大蒜,garlic,40 
+生菜,lettuce,40 
+南瓜,pumpkin,40 
+莧菜,Chives,40 
+冬瓜,Winter melon,40 
+馬鈴薯,potato,81 
+豆芽菜,Bean sprouts,33 
+胡蘿蔔,carrot,38 
+包心菜芽,Cabbage sprouts,36 
+芭蕉,banana,357 
+香蕉,banana,91 
+荔枝,litchi,59 
+櫻桃,Cherry,71 
+楊桃,Carambola,35 
+水梨,Water pear,45 
+鳳梨,pineapple,42 
+西瓜,watermelon,25 
+杏梅,Apricot,45 
+桃子,peach,45 
+芒果,Mango,100 
+木瓜,papaya,52 
+龍眼,Longan,73 
+李子,Plum,51 
+桔子,orange,32 
+橘子,orange,40 
+葡萄,grape,57 
+柿子,persimmon,68 
+香瓜,Cantaloupe,30 
+山竹,Mangosteen,71 
+蓮霧,wax apple,34 
+棗子,Date,46 
+蕃茄,tomato,26 
+釋迦,Sakyamuni,104 
+草莓,Strawberry,39 
+柳橙,Orange,43 
+百香果,Passion fruit,45 
+火龍果,Dragon fruit,60 
+葡萄柚,Grapefruit,33 
+哈密瓜,cantaloupe,60 
+奇異果,Kiwifruit,40 
+西洋梨,Western pear,60 
+加州李,California Lee,56 
+香瓜,Cantaloupe,32 
+小玉西瓜,Xiaoyu watermelon,32 
+夏威夷果仁,Macadamia nuts,750 
+高崗屋海苔,Gaogangwu Seaweed,200 
+北海鱈魚香絲,Beihai squid,500 
+萬歲牌開心果,Long live the pistachio,602 
+曼陀珠,Mandala,392 
+健達出奇蛋,Jianda surprising egg,550 
+森永牛奶糖,Morinaga Milk Sugar,416 
+黑嘉麗水果軟糖,Black jasmine fruit jelly,432 
+瑞士三角巧克力,Swiss triangle chocolate,600 
+77乳家巧克力,77 milk chocolate,495 
+77大波露巧克力,77 big wave of chocolate,529 
+m&m巧克力,m&m chocolate,480 
+金莎巧克力,Ferrero Rocher Chocolate,533 
+77新貴派巧克力,77 new expensive chocolate,531 
+可口脆迪酥,Delicious crispy crispy,375 
+77大波露巧克力,77 big wave of chocolate,529 
+乖乖奶油椰子,Whipped cream coconut,425 
+義美巧克力泡芙,Yimei Chocolate Puffs,542 
+樂天巧克力小熊餅乾,Lotte Chocolate Bear Cookies,596 
+統一鮮奶酪,Uniform fresh cheese,92 
+統一布丁,Uniform pudding,120 
+愛之味牛奶花生,Love taste milk peanut,56 
+爆米花,Popcorn,459 
+洋芋片,Potato chips,555 
+鱈魚香絲,Squid,167 
+可口奶滋,Delicious milk,100 
+瓜子仁,Melon seeds,667 
+核桃,walnut,667 
+開心果,pistachio,667 
+杏仁果,almond,667 
+花生米,Peanut,556 
+原味腰果,Original cashew,625 
+牛肉乾,Beef jerky,222 
+豬肉乾,Dried pork,286 
+橄欖,Olive,157 
+青箭口香糖,Green arrow gum,400 
+爆米花,Popcorn,143 
+龍眼乾,Longan,200 
+燕麥片,oatmeal,393 
+玉米,corn,111 
+爆米花,Popcorn,371 
+花生,peanut,583 
+杏仁,almond,596 
+腰果,Cashew,533 
+黑豆,Black bean,367 
+青豆,Haricot vert,118 
+黃豆,soy,325 
+紅豆,red beans,310 
+綠豆,green beans,320 
+巴西豆,Brazilian Bean,660 
+胡桃仁,Walnut kernel,686 
+松子仁,Pine nuts,583 
+向日葵仁,Sunflower kernel,558 
+胡桃種仁,Walnut kernel,650 
+豬肝,Pig liver,138 
+雞肝,Chicken liver,138 
+雞胗,Chicken chop,138 
+膽肝,Biliary liver,220 
+豬腎,Pig kidney,88 
+豬血,Pig blood,25 
+小腸,Small intestine,127 
+豬舌,Pig tongue,188 
+豬肚,Pork belly,150 
+豬腦,Pig brain,125 
+牛肚,Tripe,138 
+豬心,pig heart,138 
+豬小腸,Pig small intestine,136 
+雞翅,Chicken wings,214 
+雞排,Chicken chops,214 
+雞爪,Chicken feet,250 
+鴨賞,Duck reward,375 
+肉脯,Meat chop,487 
+雞心,Chicken heart,240 
+鴨肉,duck,243 
+鵝肉,goose,243 
+雞塊,Chicken nuggets,167 
+雞胸肉,chicken breast,157 
+雞里肌,Chicken muscle,183 
+雞腿,Chicken leg,243 
+香腸,sausage,100 
+炸香腸,Fried sausage,35 
+培根,Bacon,450 
+牛腱,Burdock,157 
+肉鬆,Floss,487 
+豬肉,pork,243 
+羊肉,Lamb,243 
+火腿,Ham,122 
+羊肉,Lamb,214 
+豬腳,Pig feet,214 
+臘肉,Bacon,480 
+牛肉,beef,243 
+五花肉,Pork belly,388 
+豬肉乾,Dried pork,220 
+牛肉乾,Beef jerky,275 
+豬肉鬆,Pork pine,375 
+洋火腿,Yogurt,243 
+牛肉絲,Beef silk,300 
+豬小排,Pig row,214 
+豬大排,Pig platoon,214 
+豬肉鬆,Pork pine,480 
+豬大里肌,Pig big muscle,157 
+豬後腿肉,Pig hind leg meat,343 
+牛里肌肉,Bovine muscle,243 
+豬里肌肉,Pig muscle,243 
+生牛小排,Raw beef steak,343 
+魚翅,Shark fin,913 
+干貝(乾),Scallop (dry),730 
+蟹肉,Crab meat,146 
+龍蝦,lobster,146 
+蝦仁,Shrimp,243 
+明蝦,prawn,146 
+蚵干,Dry,487 
+河鰻,River,243 
+螃蟹,crab,30 
+魷魚,Squid,65 
+草蝦,prawn,183 
+花枝,Flower branch,138 
+章魚,octopus,100 
+魚丸,Fish Ball,92 
+鱈魚,Squid,150 
+牡蠣,Oyster,85 
+烏賊,squid,214 
+肉鯽,Meat chop,214 
+文蛤,Wen Hao,92 
+海蔘,Sea otter,55 
+蝦米,Shrimp,550 
+墨魚,Cuttlefish,183 
+田雞,frog,183 
+小管,small tube,183 
+小卷,Small volume,157 
+魚鬆,dried fish floss,300 
+鮭魚,Salmon,183 
+鮪魚,tuna,183 
+虱目魚,Milkfish,214 
+小魚乾,Dried fish,550 
+牡蠣乾,Dried oyster,275 
+小蝦米,Small shrimp,275 
+金釣蝦,Golden shrimp,730 
+鯊魚皮,Shark skin,183 
+柳葉魚,Willow fish,160 
+金線魚,Golden thread fish,114 
+生鮭魚,Raw squid,156 
+雪螺肉,Snow snail meat,111 
+秋刀魚,Saury,150 
+日式靖魚,Japanese style fish,283 
+一般魚類,General fish,157 
+漢堡,Burger,165 
+麥香雞,Maixiang chicken,205 
+麥香魚,Maixiang fish,206 
+小漢堡,Little burger,263 
+吉事漢堡,Jis Burger,272 
+照燒豬肉,Teriyaki pork,263 
+雞腿堡,Chicken leg,242 
+薯條(小包),French fries (small bag),292 
+薯條(中包),French fries (in the package),399 
+薯條(大包),French fries (big bag),432 
+麥克雞塊,Mike Chicken,267 
+炸雞(翅膀),Fried chicken (wings),187 
+炸雞(上腿肉),Fried chicken (top leg meat),174 
+炸雞(雞胸肉),Fried chicken (chicken breast),146 
+巧克力聖代,Chocolate sundae,176 
+蘋果派,Apple pie,277 
+玉米湯,Corn soup,38 
+奶昔,milkshake,87
+漢堡,Hamburger,322
+水餃,Dumplings,208
+日清三明治餅乾,kid-o cracker sandwich,509
