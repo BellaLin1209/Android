@@ -1,6 +1,3 @@
-# BellaApplication
-
-
  * Date:2018/08/06~2018/08/28
  * Creator:Bella Lin
  * ProjectName:AppforDietManagement
